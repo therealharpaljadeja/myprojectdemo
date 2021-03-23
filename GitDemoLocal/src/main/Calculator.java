@@ -7,6 +7,10 @@ public class Calculator {
 		System.out.println("hello");
 	}
 	
+
+	public static void add(int num1, int num2){
+		System.out.println(num1 + num2);
+
 	public static void diff(int num1, int num2){
 		System.out.println(num1 - num2);
 	}
